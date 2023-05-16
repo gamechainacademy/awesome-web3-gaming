@@ -11,7 +11,7 @@
 A curated list of awesome resources for web3 (blockchain) game developers!
 
 <a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
+  <img src="https://github.com/gamechainacademy/awesome-web3-gaming/blob/main/img/logo.png"  alt=""/>
 </a>
 
 </div>
