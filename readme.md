@@ -16,7 +16,6 @@ A curated list of awesome resources for web3 (blockchain) game developers!
 
 </div>
 
-<!-- TOC -->
 
 ## Contents
 
