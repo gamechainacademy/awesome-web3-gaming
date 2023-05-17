@@ -19,19 +19,36 @@ A curated list of awesome resources for web3 (blockchain) game developers!
 
 ## Contents
 
-- [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
+- [Low/ No Code Blockchain Tools](#low-no-code-blockchain-tools)
+- [Onchain Indexers](#onchain-indexers)
+- [Web-based Blockchain IDE](#web-based-blockchain-ide)
+- [Game Engines](#game-engines)
+
 - [Follow](#follow)
 
 <!-- CONTENT -->
 
-## Featured (new releases)
+## Low/ No Code Blockchain Tools
 
-- [Apple](https://apple.com) - Apple as a placeholder.
+- [Thirdweb](https://thirdweb.com/) - No code web based tool to launch audited pre-written smart contracts.
+- [Bunzz](https://www.bunzz.dev/) - No code web based tool to launch pre-written smart contracts submitted by community.
 
-## Section 1
+## Onchain Indexers
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+- [Covalent](https://www.covalenthq.com/) - Single unified API of indexed onchain data that can be fetched by rest.
+- [SimpleHash](https://simplehash.com/) - Multichain indexer of NFT data served in various convenient formats fetched by rest.
+- [The Graph](https://thegraph.com/) - Deployable or hosted bespoke indexer solution.
+
+## Web-based Blockchain IDE
+
+- [Remix IDE](https://remix.ethereum.org/) - Web based EVM solidity IDE for smart contract development and deployment.
+- [ChainIDE](https://chainide.com/) - Cloud based multichain online IDE, available in english and chinese.
+
+## Game Engines
+
+- [Unity Game Engine](https://unity.com/) - The most popular game engine for developing indie and small team games.
+- [Unreal Game Engine](https://www.unrealengine.com/) - Game engine originally targeting 3d FPS games with a focus on both AAA and AA games.
+
 
 <!-- END CONTENT -->
 
